@@ -38,7 +38,7 @@ const Dashboard: React.FC<DashboardProps> = ({ darkMode }) => {
   ];
 
   const recentActivities = [
-    'New user registration: john@example.com',
+    'New user registration: preetam',
     'Course "React Basics" was published',
     'Payment received from premium user',
     'System backup completed successfully',
